@@ -1,3 +1,4 @@
+# only required initially to create the database. could be done easily from the mysql command client 
 import mysql.connector
 
 database = mysql.connector.connect(
